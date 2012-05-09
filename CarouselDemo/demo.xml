@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE PARTS SYSTEM "parts.dtd">
+<?xml-stylesheet type="text/css" href="xmlpartsstyle.css"?>
+<Labels>
+  
+    <Label>
+        <Name>label1</Name>
+    </Label>
+    <Label>
+        <Name>label2</Name>
+    </Label>
+    <Label>
+        <Name>label3</Name>
+    </Label>
+    <Label>
+        <Name>label4</Name>
+    </Label>
+    <Label>
+        <Name>label5</Name>
+    </Label>
+    <Label>
+        <Name>label6</Name>
+    </Label>
+    <Label>
+        <Name>label7</Name>
+    </Label>
+    <Label>
+        <Name>label8</Name>
+    </Label>
+    <Label>
+        <Name>label9</Name>
+    </Label>
+    <Label>
+        <Name>label10</Name>
+    </Label>
+    
+</Labels>
